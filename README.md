@@ -1,4 +1,4 @@
-# University of London | Computer Science
+# Computer Science | University of London <img src="./uol-logo.svg" height="20" />
 
 I created this repository to use as my personal notebook of all the annotations for my university studies. The idea is to have it available whenever I need some quick references.
 
