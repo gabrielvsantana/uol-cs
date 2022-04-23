@@ -2,7 +2,7 @@
 
 ---
 
-# Week 1
+# Week 1 - Introduction to the web
 
 ## Main discussed themes:
 - Web
@@ -68,7 +68,7 @@ Time Dependent Media - They indeed change
 
 ---
 
-# Week 2
+# Week 2  - Introduction to the web (cont.)
 
 ## Main discussed themes:
 
@@ -78,4 +78,4 @@ Time Dependent Media - They indeed change
 
 --- 
 
-# Week 3
+# Week 3 - Designing web sites
